@@ -1,0 +1,15 @@
+.no-res {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 100px 0;
+
+    .back-btn {
+        background-color: transparent;
+        font-weight: 500;
+        text-decoration: underline;
+        border: 0;
+        font-size: inherit;
+        cursor: pointer;
+    }
+}
